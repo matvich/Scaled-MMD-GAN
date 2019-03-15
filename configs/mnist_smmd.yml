@@ -1,0 +1,9 @@
+max_iteration : 80000
+dataset : "mnist"
+architecture : "sngan"
+kernel : 'rbf'
+model : "smmd"
+compute_scores : False
+with_sn : True
+with_scaling : True
+is_train : True
